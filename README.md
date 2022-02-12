@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://user-images.githubusercontent.com/14335370/153728893-8473a4f6-3c86-4dba-8aef-26f7391bda54.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Olá 👋
 
@@ -23,6 +23,7 @@ Bem-vindo à minha página do GitHub..
   </a>
 
   </p>
+
 
 <br>
 <br>
@@ -76,5 +77,5 @@ Bancos de Dados
 
 
 <a href="https://github.com/HEINRICK7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEINRICK7&theme=gruvbox&hide_langs_below=1" alt="carlos Henrique github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEINRICK7&theme=gruvbox&hide_langs_below=1" alt="Carlos Henrique github stats"/>
 </a>
