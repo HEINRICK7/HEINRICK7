@@ -73,7 +73,7 @@ Bancos de Dados
 </p>
 <br>
 
-![Carlos Henrique ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=HEINRICK7&custom_title=Henrick7%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Carlos Henrique ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=HEINRICK7&custom_title=HEINRICK7%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 
 <a href="https://github.com/HEINRICK7">
