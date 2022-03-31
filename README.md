@@ -10,7 +10,7 @@ Bem-vindo à minha página do GitHub..
 ## **Minhas redes Sociais**
 
 <p align="left">
-  <a href="heinrickcosttagmail.com" alt="Gmail" target="_blank">
+  <a href="heinrickcostta@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
 
